@@ -1,0 +1,9 @@
+.img
+{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    padding: 50px;
+    justify-content: center;
+    border: 5px solid black;
+}
