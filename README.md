@@ -1,2 +1,3 @@
 # Practicals
-DU-CS Practicals,DIP
+DU-CS Practicals
+
